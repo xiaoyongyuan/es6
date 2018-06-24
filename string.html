@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>字符串模板</title>
+</head>
+<body>
+    <ul id="demo">
+    </ul>
+    <script>
+        /**
+         * 字符串模板
+         * `$(变量)`
+         *
+         */
+       /* var arr=[
+            {title:"大力神杯模型藏毒"},
+            {title:"废弃单车30万辆"},
+            {title:"拼房小程序被封禁"}
+        ];
+        window.onload=function show() {
+            var ula=document.getElementById("demo");
+            for(let i=0;i<arr.length;i++){
+                var newli=document.createElement("li");
+                newli.innerHTML=`${arr[i].title}`;
+                ula.appendChild(newli);
+            }
+        }*/
+        /**
+         * 字符串查找
+         **/
+        /*let str="this is a apple";//返回索引位置
+        //console.log(str.indexOf("a"));
+        console.log(str.includes("o"));//返回true/false*/
+        /**
+         * 判断是否是谷歌浏览器
+         **/
+       /* if(navigator.userAgent.includes('Chrome')){
+            console.log("yes");
+        }else{
+            console.log("no");
+        }*/
+
+        /**
+         * startsWith字符串什么开头
+         * @type {string}
+         */
+        /*let add="https://ke.qq.com/webcourse/index.html#course_id=274758&term_id=100324959&taid=1770540138508614&vid=y1423bekae4";
+        let af="hao9.xzk56.com/"
+        console.log(af.startsWith("https"));*/
+        /**
+         * endsWith字符串以什么结尾
+         * @type {string}
+         */
+       /* let img="aaa.png";
+        console.log(img.endsWith("png"));*/
+        /**
+         * repeat重复字符串
+         * @type {string}
+         */
+       /*let str='赵恬恬';
+       console.log(str.repeat(20));*/
+        /**
+         * padStart(整个字符串的长度，填充东西)往前填充
+         * padEnd(整个字符串的长度，填充东西)往后填充
+         * @type {string}
+         */
+       let str="a";
+       let str1="xxx";
+       console.log(str.padStart(str.length+str1.length,str1));
+        console.log(str.padEnd(str.length+str1.length,str1));
+    </script>
+</body>
+</html>

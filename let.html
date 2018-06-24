@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>解构赋值</title>
+</head>
+<body>
+    <script>
+        /*var [a,b,[d,f]]=['apple','red',['a','b']];
+        console.log(a,b,d,f);*/
+        /*let json={
+            name:'add',
+            age:12,
+            add:'shanxi'
+        }
+        let {name,age,add:address}=json;
+        console.log(name,age,address);*/
+        /*let [a,b,c='暂无数据']=["aaa","bbb"];
+        console.log(a,b,c);*/
+        /**
+         * 交换两个输的位置
+         */
+        /*let a=12;
+        let b=42;*/
+        /**
+         * 倒序输出字符串
+         * @type {string}
+         */
+        /*var str="absdrfg";
+        var a="";
+        for(var i=str.length-1;i>=0;i--) {
+             a+=str.charAt(i);
+        }
+        console.log(a);*/
+       /* var str="zhangsan";
+        console.log(str=="zhang"?str="sss":str="wangbadan");*/
+      /* function fn() {
+           return{
+               top:10,
+               bottom:20
+           }
+
+       }
+        let {top:t,bottom}=fn();
+       console.log(t,bottom);*/
+
+       function fn(a,b='默认') {
+          console.log(a,b);
+       }
+       fn({
+           a:1
+       })
+    </script>
+</body>
+</html>
+
