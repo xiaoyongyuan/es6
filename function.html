@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>函数</title>
+</head>
+<body>
+    <script>
+    /**
+     *  ...扩展运算符，rset运算符,剩余运算符(放到最后)
+     * */
+        /*let arrs=['apple','banana','cat'];
+        console.log(arrs);
+        console.log(...arrs);*/
+
+        //扩展运算符
+        /*function  show(...a) {
+            return a.sort();
+        }
+       console.log(show(9,2,8,4,5));*/
+
+        //rset运算符
+       /* function arrs(a,b,c) {
+            console.log(a,b,c);
+        }
+        arrs(...[1,9,8]);*/
+
+       //剩余运算符
+      /* function arr(a,b,...c) {
+           console.log(a,b,...c);
+       }
+        arr(4,5,6,8);*/
+
+      //复制  ...=Array.from
+        /*let arr=[1,5,2,3];
+        let arr2=[...arr];
+        let arr3=Array.from(arr);
+        console.log(arr,arr3);*/
+
+        //Array.from字符串转数组
+       /* let a="ffd";
+        let b=Array.from(a);
+        console.log(b);*/
+
+       //箭头函数
+        /*function f(a,b) {
+            return a+b;
+        }
+        console.log(f(12,8));
+
+        let show=(a,b)=>a+b;
+        console.log(show(12,5));*/
+
+       /* let show=(a=12,b=5)=>{
+            console.log(a+b);
+            return a+b;
+        };
+        show();*/
+       var id=10;//var定义全局变量属于window，let,const不同
+      /* let json={
+           id:1,
+         show:function () {
+             setTimeout(function () {
+                 alert(this.id);
+             },2000)
+         }
+       };
+       json.show();*/
+       //箭头函数(this问题，定义函数所在的对象，不再是运行时的对象)
+       /* let json={
+            id:1,
+            show:function () {
+                setTimeout(()=>{
+                    alert(this.id);
+                },2000);
+            }
+        };
+        json.show();*/
+       //箭头函数没有arguments
+      /* let show=(...arg)=>{
+          console.log(arg);
+        };
+        show(1,523,323);*/
+
+      //箭头函数不能有构造函数
+       /* function show() {
+            this.name='abc';
+        }
+       let show=()=>{
+           this.name='abc';
+       }
+        let a=new show();
+        alert(a.name);*/
+       function show(a,b,) {
+           console.log(a,b);
+       }
+       show(12,2,);
+    </script>
+</body>
+</html>

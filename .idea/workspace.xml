@@ -2,13 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2051a585-b7ca-4ffa-b82d-6fb9f51c8ccd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/es6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/let.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第一部分课件.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/const.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/const2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/const3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/const4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/const5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/endsWith.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/let.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/let2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/let3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/let4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/let5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/let6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/let7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/let8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/padEnd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/padStart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/padStart2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/repeat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/startsWith.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/var.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/var2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/三个点.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/三个点2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/三个点3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/三个点4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/三个点5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/三个点6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/三个点7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/交换两个数位置.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/函数的变化.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/函数的变化2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/函数默认参数.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/函数默认参数2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/函数默认参数3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/块级作用域.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/字符串查找.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/字符串查找2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/字符串查找3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/字符串模板.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/字符串模板2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/字符串模板3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/字符串模板4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/笔记.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/箭头函数.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/箭头函数2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/箭头函数3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/箭头函数4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/箭头函数5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/箭头函数6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/箭头函数7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/箭头函数8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/解构赋值-应用.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/解构赋值-应用2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/解构赋值-应用3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/解构赋值.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/解构赋值2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/解构赋值3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/解构赋值4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/解构赋值5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/解构赋值6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一部分课件/第一部分课件/解构赋值7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,16 +79,25 @@
         <entry file="file://$PROJECT_DIR$/let.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1350">
-              <caret line="50" column="14" lean-forward="true" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
+              <caret line="50" column="14" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="string.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="string.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/string.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+            <state relative-caret-position="243">
+              <caret line="60" column="23" lean-forward="true" selection-start-line="60" selection-start-column="23" selection-end-line="60" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="function.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/function.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="329">
+              <caret line="96" column="17" selection-start-line="96" selection-start-column="17" selection-end-line="96" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -54,6 +119,7 @@
       <list>
         <option value="$PROJECT_DIR$/let.html" />
         <option value="$PROJECT_DIR$/string.html" />
+        <option value="$PROJECT_DIR$/function.html" />
       </list>
     </option>
   </component>
@@ -72,11 +138,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="392" />
-    <option name="y" value="18" />
-    <option name="width" value="683" />
-    <option name="height" value="728" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="691" />
+    <option name="y" value="117" />
+    <option name="width" value="1040" />
+    <option name="height" value="548" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -84,7 +150,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -96,8 +163,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -107,7 +173,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -181,15 +247,25 @@
       <option name="presentableId" value="Default" />
       <updated>1529821750361</updated>
       <workItem from="1529821768547" duration="6246000" />
-      <workItem from="1529830617237" duration="6884000" />
+      <workItem from="1529830617237" duration="7360000" />
+      <workItem from="1529933843687" duration="73000" />
+      <workItem from="1530447102557" duration="6065000" />
     </task>
+    <task id="LOCAL-00001" summary="all">
+      <created>1529848440851</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1529848440851</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13130000" />
+    <option name="totallyTimeSpent" value="19744000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="691" y="117" width="1040" height="548" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -199,19 +275,19 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3290938" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3290938" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17423134" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23242188" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -226,11 +302,22 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="all" />
+    <option name="LAST_COMMIT_MESSAGE" value="all" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/let.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1377">
-          <caret line="51" column="9" lean-forward="true" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+        <state relative-caret-position="1350">
+          <caret line="50" column="14" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1674">
+          <caret line="62" column="11" selection-start-line="62" selection-start-column="11" selection-end-line="62" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -243,8 +330,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/string.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        <state relative-caret-position="1971">
+          <caret line="73" column="7" lean-forward="true" selection-start-line="73" selection-start-column="7" selection-end-line="73" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/let.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="51" column="9" lean-forward="true" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/let.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="50" column="14" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="60" column="23" lean-forward="true" selection-start-line="60" selection-start-column="23" selection-end-line="60" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="96" column="17" selection-start-line="96" selection-start-column="17" selection-end-line="96" selection-end-column="17" />
         </state>
       </provider>
     </entry>
